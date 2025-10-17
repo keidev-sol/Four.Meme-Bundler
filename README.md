@@ -1,7 +1,4 @@
 
-https://github.com/user-attachments/assets/76b87b9c-3b70-4f98-a29d-cb2b310f21a3
-
-https://github.com/user-attachments/assets/d326cee9-37cd-424f-8b35-b208a690b753
 # ⚡ Four.meme BNB Bundler
 
 **Four.meme BNB Bundler** is a high-performance, on-chain automation bot built for the **Binance Smart Chain (BSC)**.  
@@ -78,7 +75,7 @@ This example demonstrates how **multiple dependent actions** can be executed **a
 ## 🎥 Demo / Video
 
 > 🧩 *Working Demo:*  
-> [Watch the bundler in action](https://x.com/kei_4650/status/1979065679924883774)
+> [Watch the bundler in action](https://github.com/user-attachments/assets/76b87b9c-3b70-4f98-a29d-cb2b310f21a3)
 
 ---
 
