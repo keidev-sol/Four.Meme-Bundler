@@ -73,8 +73,7 @@ This example demonstrates how **multiple dependent actions** can be executed **a
 ---
 
 ## 🎥 Demo / Video
-
-> 🧩 *Working Demo:*  
+ 
 https://github.com/user-attachments/assets/76b87b9c-3b70-4f98-a29d-cb2b310f21a3
 
 ---
